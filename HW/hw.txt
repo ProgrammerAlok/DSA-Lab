@@ -1,0 +1,7 @@
+Task1: Write a c program to compute the subtraction of two numbers taken through keyboard
+
+Task2: Write a C program to compute the area of a triangle using 3 sides theory
+
+Task3: Write a C program to find the area of a rectangle
+
+Task4: Write a c program to find the length of the diagonal of a square where side is given

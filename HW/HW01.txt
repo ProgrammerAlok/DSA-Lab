@@ -1,0 +1,12 @@
+Task1:  Ram collects pen, paper and pencil from a shop. Number of elements and their unit prices are given. You have to calculate for which he spent maximum and the minimum..
+EX: Pen=> 5 pcs uint price 10
+      Paper => 10 pcs   unit price 2
+     Pencil 2 pcs unit price 5
+
+Task2: Rahim got the results of last semester. He has five subjects.
+ 40 is the pass mark and if he got more than 80, is called distinction.
+ You have to find in how many subjects he passed, fail or get the distinction.
+
+Task3: Find whether a given number is even or not.
+
+Task 4: find whether a given year is leap yer or not.

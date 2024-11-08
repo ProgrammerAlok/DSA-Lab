@@ -1,0 +1,9 @@
+Find whether a given string is palindrome or not.
+Ex: madam is palindrome, ip string= madam   reverse => madam
+
+Find the number of words in a given string
+Ex: A man is walking => 4
+
+Count the number of vowel and consonant in a given string irrespective cases
+Sort a string in ascending order
+Ex: Sachin => achins

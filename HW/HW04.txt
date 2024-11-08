@@ -1,0 +1,7 @@
+HT1-> Write a C program to compute the area of a rectangular floor,
+      where you have to take the input of Length and Width of the floor.
+HT2-> Write a C program to compute the summation of 5 numbers given as user input
+HT3-> Write a C program to find the area of triangle where three sides are given.
+HT4-> Your mother has given you Rs. X to buy pen, pencil and paper.  
+      You ask a shop keeper about the unit price of each of the materials. 
+       Find a the number of elements you can buy maximum with the Rs. Given to you.

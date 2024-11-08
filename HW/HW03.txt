@@ -1,0 +1,10 @@
+HT1-> Write a program to find the average of n numbers
+      Ex=> n=5, 1 2 3 4 5 anv=3
+HT2-> Write a c program to find the sum of all digits of a given number
+      Num=123  sum=6
+HT3-> Write a C program to reverse the digits of a number
+      Num=234  rev=432
+HT4-> You are having three science subjects at your school. 
+      40 is the passing criteria, you got 1st class if you scored more than 60,
+      and 80 is the distinction. If n numbers of students are there, 
+      count how many students got distinction and failed respectively.

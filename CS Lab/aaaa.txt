@@ -1,0 +1,14 @@
+
+Email ID is : aaaa
+Contact Number is : 1111111111
+
+Destination airport is : Indira Gandhi International Airport - New Delhi.
+
+Destination airport is : Bengaluru International Airport - Bengaluru.
+
+Passenger 1 details : 
+Name : aaaa
+Sex : Male
+age : 12
+Aadhaar ID : 111111111111
+Passport Number : 11111111

@@ -1,0 +1,18 @@
+ HW::	Write a program to do the following Pattern
+
+	  
+      A:        *
+	       * *
+	    *   *   *
+
+
+      B:            *
+	         *  *  *
+	   *     *   *  *   *
+
+
+      C:	  *****
+		  **  **
+		 *      *
+
+ HW::   Write a switch case to put all the patterns together

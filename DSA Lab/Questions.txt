@@ -1,0 +1,32 @@
+1. WAP a take the input n and store the elements in a n*n array
+    a. Contruct a 2D array of nxn size and insert the input from user in 2D array column wise and row wise respectively.
+b. Insert the input from user in spiral order
+2. Above program with help of file handling
+3. Take the number
+    a. Find the largest ascending order substring in length
+    b. Modify the program which will not consider the duplication of number
+4. Take input in an array from user and store it in a file and after reading the file perorm
+    a. Selection sort
+    b. Bubble sort
+    c. Insertion sort
+    d. Linear search
+    e. Binary search
+    And even find out the time complexity of each algorithm
+5. Take an array of n number and print it's address
+    a. For n integers
+    b. For n float numbers
+    c. For n characters
+6. Program to count the frequency of a digit in a given number
+7. Program to add any two decimal number
+8. Compute the address of an element in case of 
+    a. Lower triangular 2d array
+    b. Upper triangular 2d array
+    c. Tridiagonal array
+    d. 3d array
+9. Implement linear search using linked list
+10. Find maximum and minimum from a set of numbers using linked list
+11. Sort a list of numbers using linked list
+12. Insert elements in a linked list
+    a. at beginning
+    b. at middle
+    c. at end

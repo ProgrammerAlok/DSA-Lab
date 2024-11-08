@@ -1,0 +1,39 @@
+Task1: Write a program to get the maximum and minimum of n numbers using array.
+     Ex: 
+
+
+12
+
+67
+
+54
+
+98
+
+34
+
+234
+
+9
+
+
+
+Output: Min=> 9
+                Max=>234
+Task2: Write a program to display the even numbers from 1 to n
+Ex: Input=> n=10
+                2              4              6              8              10
+Task3: Write a program to sum up the digits of a number.
+ EX: 
+                Num=> 12387
+                Output=> 21
+Task4: Write a program to draw the following
+                *
+                **
+                ***
+                ****
+Task5: Write a program to find the given number is prime or not.
+  N=12
+Not prime
+N=13
+prime
